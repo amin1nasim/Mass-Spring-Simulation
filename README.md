@@ -1,4 +1,4 @@
-# Mass-Spring-Simulation
+# Mass Spring Simulation
 
 ## Demo
 ### Cloth simulation 
